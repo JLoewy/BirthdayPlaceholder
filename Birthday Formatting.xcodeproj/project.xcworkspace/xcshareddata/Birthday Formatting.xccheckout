@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3B18467D-60E6-4198-A8F1-77F3CF523CE8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Birthday Formatting</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FD1B4192E1E00D598E099F0D991BC2E273FDBAB7</key>
+		<string>https://github.com/JLoewy/BirthdayPlaceholder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Birthday Formatting.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FD1B4192E1E00D598E099F0D991BC2E273FDBAB7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JLoewy/BirthdayPlaceholder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FD1B4192E1E00D598E099F0D991BC2E273FDBAB7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD1B4192E1E00D598E099F0D991BC2E273FDBAB7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Birthday%20Formatting</string>
+		</dict>
+	</array>
+</dict>
+</plist>
