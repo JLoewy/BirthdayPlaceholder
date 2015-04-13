@@ -14,6 +14,7 @@
 		0361EFB219CE2F370002B3E2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0361EFB119CE2F370002B3E2 /* Images.xcassets */; };
 		0361EFB519CE2F370002B3E2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0361EFB319CE2F370002B3E2 /* LaunchScreen.xib */; };
 		0361EFC119CE2F370002B3E2 /* Birthday_FormattingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0361EFC019CE2F370002B3E2 /* Birthday_FormattingTests.m */; };
+		EDD833141ADBCD1600102DB9 /* BirthdayTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = EDD833131ADBCD1600102DB9 /* BirthdayTextField.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		0361EFBA19CE2F370002B3E2 /* Birthday FormattingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Birthday FormattingTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0361EFBF19CE2F370002B3E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0361EFC019CE2F370002B3E2 /* Birthday_FormattingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Birthday_FormattingTests.m; sourceTree = "<group>"; };
+		EDD833121ADBCD1600102DB9 /* BirthdayTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BirthdayTextField.h; sourceTree = "<group>"; };
+		EDD833131ADBCD1600102DB9 /* BirthdayTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BirthdayTextField.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				0361EFB119CE2F370002B3E2 /* Images.xcassets */,
 				0361EFB319CE2F370002B3E2 /* LaunchScreen.xib */,
 				0361EFA419CE2F370002B3E2 /* Supporting Files */,
+				EDD833121ADBCD1600102DB9 /* BirthdayTextField.h */,
+				EDD833131ADBCD1600102DB9 /* BirthdayTextField.m */,
 			);
 			path = "Birthday Formatting";
 			sourceTree = "<group>";
@@ -221,6 +226,7 @@
 			files = (
 				0361EFAD19CE2F370002B3E2 /* ViewController.m in Sources */,
 				0361EFAA19CE2F370002B3E2 /* AppDelegate.m in Sources */,
+				EDD833141ADBCD1600102DB9 /* BirthdayTextField.m in Sources */,
 				0361EFA719CE2F370002B3E2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,6 +418,7 @@
 				0361EFC619CE2F370002B3E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0361EFC719CE2F370002B3E2 /* Build configuration list for PBXNativeTarget "Birthday FormattingTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +427,7 @@
 				0361EFC919CE2F370002B3E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
